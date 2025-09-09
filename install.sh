@@ -9,7 +9,7 @@ apt update
 apt install -y nodejs npm postgresql nginx git
 
 # 2. Clona o projeto
-git clone https://github.com/seurepo/sistema-pdv-multilojas.git /opt/pdv
+git clone https://github.com/heglay/pdv.git /opt/pdv
 
 cd /opt/pdv
 
